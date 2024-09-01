@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manan Darak</h1>
-<h3 align="center">Aspiring AI Student with a passion for AI and ML.Tech enthusiast on the learning journey, still a work in progress.</h3>
+<h3 align="center">Aspiring AI Student with a passion for AI and ML. Tech enthusiast on the learning journey, still a work in progress.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manandarak&label=Profile%20views&color=0e75b6&style=flat" alt="manandarak" /> </p>
 
