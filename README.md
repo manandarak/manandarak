@@ -24,6 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manandarak&show_icons=true&locale=en" alt="manandarak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manandarak&" alt="manandarak" /></p>
-
-[![manandarak's GitHub | Stats](https://stats.quira.sh/manandarak/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=manandarak)
-
