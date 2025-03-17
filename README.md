@@ -40,7 +40,7 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a>
   <a href="https://dvc.org" target="_blank" rel="noreferrer"> 
-    <img src="https://dvc.org/_img/dvc-logo.svg" alt="dvc" width="40" height="40"/> 
+    <img src="https://dvc.org/img/logo.svg" alt="dvc" width="40" height="40"/> 
   </a>
   <a href="https://mlflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://mlflow.org/favicon.ico" alt="mlflow" width="40" height="40"/> 
