@@ -39,6 +39,15 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a>
+  <a href="https://dvc.org" target="_blank" rel="noreferrer"> 
+    <img src="https://dvc.org/_img/dvc-logo.svg" alt="dvc" width="40" height="40"/> 
+  </a>
+  <a href="https://mlflow.org" target="_blank" rel="noreferrer"> 
+    <img src="https://mlflow.org/favicon.ico" alt="mlflow" width="40" height="40"/> 
+  </a>
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
+  </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> 
   </a>
